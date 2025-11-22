@@ -6,6 +6,15 @@ __pycache__/
 # C extensions
 *.so
 
+# macOS junk
+.DS_Store
+
+# YOLO pretrained weights
+*.pt
+
+# dataset folder
+data/dataset/
+
 # Distribution / packaging
 .Python
 build/
